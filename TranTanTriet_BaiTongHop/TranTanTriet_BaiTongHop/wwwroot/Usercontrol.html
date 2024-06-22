@@ -1,0 +1,102 @@
+﻿
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <h6>Create User</h6>
+        </div>
+        <div class="card-body">
+            <form name="myForm" ng-submit="AddUser()">
+                <div class="row">
+                     <!--Họ tên--> 
+                    <div class="mb-3">
+                        <label class="form-label">Họ tên:</label>
+                        <input type="text" class="form-control" required placeholder="Vui lòng nhập họ tên" name="Name" ng-model="Name">
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.Name.$touched && myForm.Name.$error.required">Vui lòng nhập lại họ tên</span>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="Name && !(Name | fullnameValidate)">họ tên không được chứa số và các ký tự đặc biệt</span>
+                    </div>
+
+                     <!--Số điện thoại--> 
+                    <div class="mb-3">
+                        <label class="form-label">Số điện thoại:</label>
+                        <input type="text" class="form-control" required placeholder="Vui lòng nhập số điện thoại" name="numberPhone" ng-model="numberPhone">
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.numberPhone.$touched && myForm.numberPhone.$error.required">Vui lòng nhập lại số điện thoại</span>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="numberPhone && !(numberPhone | phoneValidate)">Vui lòng nhập đúng định dạng số điện thoại</span>
+
+
+                    </div>
+
+                     <!--Ngày sinh--> 
+                    <div class="mb-3">
+                        <label class="form-label">Ngày sinh:</label>
+                        <input type="date" class="form-control" required placeholder="Vui lòng nhập số điện thoại" name="Date" ng-model="Date">
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.Date.$touched && myForm.Date.$error.required">Vui lòng chọn lại ngày sinh</span>
+                    </div>
+
+                     <!--Giới tính--> 
+                    <div class="mb-3">
+                        <label class="form-label">Giới tính:</label><br />
+                        <div class="d-inline-flex align-items-center me-3">
+                            <input type="radio" value="Nam" name="Gender" ng-model="Gender" required>
+                            <label class="ms-2" for="Male">Male</label>
+                        </div>
+                        <div class="d-inline-flex align-items-center">
+                            <input type="radio" value="Nữ" name="Gender" ng-model="Gender" required>
+                            <label class="ms-2" for="Female">Female</label>
+                        </div>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.Gender.$touched && myForm.Gender.$error.required">Vui lòng chọn lại giới tính</span>
+                    </div>
+
+                    <!--Thành phố--> 
+                    <div class="mb-3">
+                        <label class="form-label">Tỉnh thành: </label>
+                        <select class="form-control select" required name="City" ng-model="City">
+                            <option value="">--Chọn thành phố--</option>
+                            <option value="Cần Thơ">Cần Thơ</option>
+                            <option value="Hồ Chí Minh">Hồ Chí Minh</option>
+                            <option value="Hà Nội">Hà Nội</option>
+                            <option value="Đà Nẵng">Đà Nẵn</option>
+                            <option value="Hải Phòng">Hải Phòng</option>
+                        </select>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.City.$touched && myForm.City.$error.required">Vui lòng chọn lại thành phố</span>
+                    </div>
+
+                    <!--Username--> 
+                    <div class="mb-3">
+                        <label class="form-label">User Name</label>
+                        <input type="text" class="form-control" required placeholder="Vui lòng nhập User name" name="Username" ng-model="Username" />
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.Username.$touched && myForm.Username.$error.required">Vui lòng nhập lại user name</span>
+                    </div>
+
+                    <!--Password--> 
+                    <div class="mb-3">
+                        <label class="form-label">Password:</label>
+                        <input type="password" class="form-control" required placeholder="Vui lòng nhập password" name="Password" ng-model="Password">
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.Password.$touched && myForm.Password.$error.required">Vui lòng nhập lại password</span>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="Password && !(Password | validatePassword)">Mật khẩu phải có một ký tự thường, một ký tự số và một ký tự đặc biệt</span>
+                    </div>
+
+                    <!--Re Password--> 
+                    <div class="mb-3">
+                        <label class="form-label">Re-Pass:</label>
+                        <input type="password" class="form-control" required placeholder="Vui lòng nhập password" name="rePassword" ng-model="rePassword" password-verify="Password">
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.rePassword.$touched && myForm.rePassword.$error.required">Vui lòng xác nhận lại password</span>
+                        <span class="ms-2 mt-1" style="color:red;" ng-show="myForm.rePassword.$error.passwordVerify">Mật khẩu không khớp</span>
+                    </div>
+
+                </div>
+                <div class="mb-3">
+                </div>
+                <div class="text-end">
+                    <button type="submit" class="btn btn-primary ms-2 text-end" ng-disabled="myForm.Name.$error.required || myForm.numberPhone.$error.required || numberPhone && !(numberPhone | phoneValidate)|| myForm.Date.$error.required || myForm.City.$error.required || myForm.Username.$error.required || myForm.Password.$error.required || Password && !(Password | validatePassword) || myForm.rePassword.$error.required || myForm.rePassword.$error.passwordVerify || Name && !(Name | fullnameValidate)" >Submit</button>
+                    <a class="btn btn-success" href="/Home/List">List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

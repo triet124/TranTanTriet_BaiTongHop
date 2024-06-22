@@ -1,0 +1,533 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TranTanTriet_BaiTongHop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TranTanTriet_BaiTongHop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\1.png",
+      "PackagePath": "staticwebassets\\Image\\1.png"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\1.svg",
+      "PackagePath": "staticwebassets\\Image\\1.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\12.png",
+      "PackagePath": "staticwebassets\\Image\\12.png"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\18.png",
+      "PackagePath": "staticwebassets\\Image\\18.png"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\2.svg",
+      "PackagePath": "staticwebassets\\Image\\2.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\21.png",
+      "PackagePath": "staticwebassets\\Image\\21.png"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\3.svg",
+      "PackagePath": "staticwebassets\\Image\\3.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\4.svg",
+      "PackagePath": "staticwebassets\\Image\\4.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\adobe.svg",
+      "PackagePath": "staticwebassets\\Image\\adobe.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\amazon.svg",
+      "PackagePath": "staticwebassets\\Image\\amazon.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\bing.svg",
+      "PackagePath": "staticwebassets\\Image\\bing.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\bp.svg",
+      "PackagePath": "staticwebassets\\Image\\bp.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\debijenkorf.svg",
+      "PackagePath": "staticwebassets\\Image\\debijenkorf.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\dribbble.svg",
+      "PackagePath": "staticwebassets\\Image\\dribbble.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face1.jpg",
+      "PackagePath": "staticwebassets\\Image\\face1.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face10.jpg",
+      "PackagePath": "staticwebassets\\Image\\face10.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face11.jpg",
+      "PackagePath": "staticwebassets\\Image\\face11.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face12.jpg",
+      "PackagePath": "staticwebassets\\Image\\face12.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face14.jpg",
+      "PackagePath": "staticwebassets\\Image\\face14.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face15.jpg",
+      "PackagePath": "staticwebassets\\Image\\face15.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face17.jpg",
+      "PackagePath": "staticwebassets\\Image\\face17.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face18.jpg",
+      "PackagePath": "staticwebassets\\Image\\face18.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face2.jpg",
+      "PackagePath": "staticwebassets\\Image\\face2.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face22.jpg",
+      "PackagePath": "staticwebassets\\Image\\face22.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face24.jpg",
+      "PackagePath": "staticwebassets\\Image\\face24.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face25.jpg",
+      "PackagePath": "staticwebassets\\Image\\face25.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face3.jpg",
+      "PackagePath": "staticwebassets\\Image\\face3.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face4.jpg",
+      "PackagePath": "staticwebassets\\Image\\face4.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face7.jpg",
+      "PackagePath": "staticwebassets\\Image\\face7.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\face8.jpg",
+      "PackagePath": "staticwebassets\\Image\\face8.jpg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\facebook.svg",
+      "PackagePath": "staticwebassets\\Image\\facebook.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\holiday-inn.svg",
+      "PackagePath": "staticwebassets\\Image\\holiday-inn.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\ing.svg",
+      "PackagePath": "staticwebassets\\Image\\ing.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\klm.svg",
+      "PackagePath": "staticwebassets\\Image\\klm.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\logo_icon.svg",
+      "PackagePath": "staticwebassets\\Image\\logo_icon.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\logo_text_light.svg",
+      "PackagePath": "staticwebassets\\Image\\logo_text_light.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\pdf.svg",
+      "PackagePath": "staticwebassets\\Image\\pdf.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\shell.svg",
+      "PackagePath": "staticwebassets\\Image\\shell.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\spotify.svg",
+      "PackagePath": "staticwebassets\\Image\\spotify.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\tesla.svg",
+      "PackagePath": "staticwebassets\\Image\\tesla.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\twitter.svg",
+      "PackagePath": "staticwebassets\\Image\\twitter.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Image\\youtube.svg",
+      "PackagePath": "staticwebassets\\Image\\youtube.svg"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
+      "PackagePath": "staticwebassets\\Usercontrol.html"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\css\\inter.css",
+      "PackagePath": "staticwebassets\\css\\inter.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\css\\styles.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\angularJS.js",
+      "PackagePath": "staticwebassets\\js\\angularJS.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\areas.js",
+      "PackagePath": "staticwebassets\\js\\areas.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\bars.js",
+      "PackagePath": "staticwebassets\\js\\bars.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\bullets.js",
+      "PackagePath": "staticwebassets\\js\\bullets.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\d3.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\d3_tooltip.js",
+      "PackagePath": "staticwebassets\\js\\d3_tooltip.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\demo_configurator.js",
+      "PackagePath": "staticwebassets\\js\\demo_configurator.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\donuts.js",
+      "PackagePath": "staticwebassets\\js\\donuts.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\form_validation_libaries.js",
+      "PackagePath": "staticwebassets\\js\\form_validation_libaries.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\form_validation_style.js",
+      "PackagePath": "staticwebassets\\js\\form_validation_style.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\heatmaps.js",
+      "PackagePath": "staticwebassets\\js\\heatmaps.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\lines.js",
+      "PackagePath": "staticwebassets\\js\\lines.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\pies.js",
+      "PackagePath": "staticwebassets\\js\\pies.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\progress.js",
+      "PackagePath": "staticwebassets\\js\\progress.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\sparklines.js",
+      "PackagePath": "staticwebassets\\js\\sparklines.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\streamgraph.js",
+      "PackagePath": "staticwebassets\\js\\streamgraph.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\validate.min.js",
+      "PackagePath": "staticwebassets\\js\\validate.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TranTanTriet_BaiTongHop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TranTanTriet_BaiTongHop.props",
+      "PackagePath": "build\\TranTanTriet_BaiTongHop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TranTanTriet_BaiTongHop.props",
+      "PackagePath": "buildMultiTargeting\\TranTanTriet_BaiTongHop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TranTanTriet_BaiTongHop.props",
+      "PackagePath": "buildTransitive\\TranTanTriet_BaiTongHop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

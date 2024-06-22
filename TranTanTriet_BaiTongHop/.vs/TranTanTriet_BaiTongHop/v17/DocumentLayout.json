@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Home\\List.cshtml",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\Views\\Home\\List.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Home\\List.cshtml",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\Views\\Home\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T02:14:47.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-17T04:03:27.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usercontrol.html",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-19T02:49:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T02:02:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\Models\\User.cs",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Models\\User.cs",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:18:28.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:07:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TranTanTriet_BaiTongHop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T02:04:21.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
