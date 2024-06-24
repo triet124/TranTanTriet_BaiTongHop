@@ -221,6 +221,10 @@
       "PackagePath": "staticwebassets\\js\\bullets.js"
     },
     {
+      "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\components_tooltips.js",
+      "PackagePath": "staticwebassets\\js\\components_tooltips.js"
+    },
+    {
       "Id": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\d3.min.js",
       "PackagePath": "staticwebassets\\js\\d3.min.js"
     },

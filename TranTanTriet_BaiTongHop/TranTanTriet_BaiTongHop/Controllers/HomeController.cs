@@ -16,15 +16,16 @@ namespace TranTanTriet_BaiTongHop.Controllers
             _logger = logger;
         }
 
-        private static List<User> users = new List<User>();
 
         public IActionResult Index()
         {
             return View();
         }
 
-		[HttpPost]
-		public IActionResult AddUser([FromBody]User user)
+        private static List<User> users = new List<User>();
+
+        [HttpPost]
+		public IActionResult Create([FromBody]User user)
 		{
             if(user == null)
             {

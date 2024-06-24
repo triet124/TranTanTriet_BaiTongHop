@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cWh8zsqM7jpZ/4/R6i6IjWjmMrkZV7yme8ahIn/aGmY=",
+  "Hash": "IVkzx1QFAFYzQWmTRY/oacQcmyOT0iSBEP1LhzOYXp8=",
   "Source": "TranTanTriet_BaiTongHop",
   "BasePath": "_content/TranTanTriet_BaiTongHop",
   "Mode": "Default",
@@ -1060,6 +1060,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bullets.js"
+    },
+    {
+      "Identity": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\components_tooltips.js",
+      "SourceId": "TranTanTriet_BaiTongHop",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\",
+      "BasePath": "_content/TranTanTriet_BaiTongHop",
+      "RelativePath": "js/components_tooltips.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\components_tooltips.js"
     },
     {
       "Identity": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\d3.min.js",

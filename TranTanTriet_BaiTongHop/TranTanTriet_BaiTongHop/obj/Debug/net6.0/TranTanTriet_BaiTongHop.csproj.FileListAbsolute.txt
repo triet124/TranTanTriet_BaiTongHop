@@ -59,3 +59,4 @@ D:\FPT POLY TEACHNIC\STC\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\TranTan
 D:\FPT POLY TEACHNIC\STC\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\obj\Debug\net6.0\TranTanTriet_BaiTongHop.pdb
 D:\FPT POLY TEACHNIC\STC\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\obj\Debug\net6.0\TranTanTriet_BaiTongHop.genruntimeconfig.cache
 D:\FPT POLY TEACHNIC\STC\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\obj\Debug\net6.0\ref\TranTanTriet_BaiTongHop.dll
+D:\FPT POLY TEACHNIC\STC\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\TranTanTriet_BaiTongHop\obj\Debug\net6.0\TranTanTriet_BaiTongHop.sourcelink.json
