@@ -35,7 +35,7 @@ app.filter('fullnameValidate', function () {
 
 app.filter('validatePassword', function () {
     // Biểu thức chính quy để bắt mật khẩu phải chứa ít nhất một ký tự thường, một ký tự số và một ký tự đặc biệt
-    let regpass = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_])[A-Za-z\d\W_]{8,16}$/;
+    let regpass = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,16}$/;
     return function (input) {
         // Kiểm tra nếu đầu vào khớp với biểu thức chính quy
         if (regpass.test(input)) {
