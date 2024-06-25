@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\views\\home\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|solutionrelative:trantantriet_baitonghop\\wwwroot\\usercontrol.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5CADE67-8B4B-4BAA-827C-C6A6ABB490C8}|TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop.csproj|d:\\fpt poly teachnic\\stc\\trantantriet_baitonghop\\trantantriet_baitonghop\\trantantriet_baitonghop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,29 +59,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "site.js",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
               "RelativeToolTip": "TranTanTriet_BaiTongHop\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCUAAAAoAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvywAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-06-17T04:03:27.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Usercontrol.html",
               "DocumentMoniker": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
               "RelativeDocumentMoniker": "TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
               "ToolTip": "D:\\FPT POLY TEACHNIC\\STC\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
               "RelativeToolTip": "TranTanTriet_BaiTongHop\\wwwroot\\Usercontrol.html",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGYAAAAaAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-19T02:49:23.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T02:49:23.112Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "TranTanTriet_BaiTongHop\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAowCsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T02:02:43.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T02:02:43.455Z"
             },
             {
               "$type": "Document",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "TranTanTriet_BaiTongHop\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T03:18:28.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T03:18:28.338Z"
             },
             {
               "$type": "Document",
