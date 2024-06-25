@@ -35,7 +35,7 @@ app.filter('fullnameValidate', function () {
 
 app.filter('validatePassword', function () {
     // Biểu thức chính quy để bắt mật khẩu phải chứa ít nhất một ký tự thường, một ký tự số và một ký tự đặc biệt
-    let regpass = /^(?=.*[a-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,16}$/;
+    let regpass = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,16}$/;
     return function (input) {
         // Kiểm tra nếu đầu vào khớp với biểu thức chính quy
         if (regpass.test(input)) {
@@ -130,8 +130,8 @@ app.directive('stcForm', function () {
                     // Giảm tuổi đi 1 nếu chưa đến sinh nhật trong năm nay
                     age--;
                 }
-                // Kiểm tra nếu tuổi nằm trong khoảng từ 18 đến 60
-                return age >= 18 && age <= 60;
+                // Kiểm tra nếu tuổi nằm trong khoảng từ 15 
+                return age >= 15 ;
             }
 
             // Hàm AddUser được định nghĩa trong scope

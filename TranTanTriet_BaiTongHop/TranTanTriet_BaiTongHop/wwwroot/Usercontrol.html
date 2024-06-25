@@ -55,7 +55,7 @@
                         <label class="form-label">Ngày sinh:</label>
                         <input type="date" class="form-control" required placeholder="Vui lòng nhập số điện thoại" name="Date" ng-model="Date">
                         <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="(myForm.Date.$dirty && myForm.Date.$error.required) || (myForm.Date.$dirty && !Date)">* Vui lòng chọn lại ngày sinh</span>
-                        <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="Date && !validDateOfBirth(Date)">* Tuổi phải từ 18 đến 60</span>
+                        <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="Date && !validDateOfBirth(Date)">* Tuổi phải đủ 15</span>
                     </div>
 
                      <!--Giới tính--> 
@@ -99,7 +99,7 @@
                         <label class="form-label">Password:</label>
                         <input type="password" class="form-control" required placeholder="Vui lòng nhập password" name="Password" ng-model="Password">
                         <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="myForm.Password.$dirty && myForm.Password.$error.required">* Vui lòng nhập lại password</span>
-                        <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="Password && !(Password | validatePassword)">* Mật khẩu phải có một ký tự thường, một ký tự số, một ký tự đặc biệt, không được để khoản trống, có ít nhất từ 8 ký tự và tối đa 16 ký tự</span>
+                        <span class="ms-2 mt-1 error-message" style="color:red;" ng-show="Password && !(Password | validatePassword)">* Mật khẩu phải có một ký tự thường, một ký tự in hoa, một ký tự số, một ký tự đặc biệt, không được để khoản trống, có ít nhất từ 8 ký tự và tối đa 16 ký tự</span>
                     </div>
 
                     <!--Re Password--> 
